@@ -1,0 +1,22 @@
+{
+  "name": "koli-cutler_com",
+  "version": "1.0.0",
+  "description": "Personal website for Koli Cutler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinsant/koli-cutler_com.git"
+  },
+  "author": "Calvin Sant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvinsant/koli-cutler_com/issues"
+  },
+  "homepage": "https://github.com/calvinsant/koli-cutler_com#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
